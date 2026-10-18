@@ -1,6 +1,3 @@
 print("Hello")
 print("World")
 print("this is file1")
-print("this is file11")
-print("this is file111")
-print("this is file1111")

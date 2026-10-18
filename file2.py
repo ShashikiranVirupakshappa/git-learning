@@ -1,6 +1,3 @@
 print("shashi")
 print("kiran")
 print("this is file2")
-print("this is file21")
-print("this is file211")
-print("this is file2111")
